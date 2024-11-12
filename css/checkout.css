@@ -1,0 +1,96 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Oswald:wght@200..700&family=Roboto+Flex:opsz,wght@8..144,100..1000&display=swap");
+
+/* 
+Oswald: TITOLO && INTESTAZIONI
+Roboto Flex : Testo e descrizioni
+Montserrat : CTA, HOVER, LINK 
+
+*/
+
+::-webkit-scrollbar {
+  width: 12px;
+}
+
+
+::-webkit-scrollbar-thumb {
+  background-color: #888; 
+  border-radius: 6px; 
+  border: 3px solid #fff; 
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1; 
+  border-radius: 6px;
+}
+
+
+
+::-webkit-scrollbar-thumb:hover {
+  background: #ff4500;
+}
+
+body {
+  background-color: #1a1a1a;
+  color: #ffffff;
+  scrollbar-width: thin;
+  scroll-behavior: smooth;
+}
+
+h1,
+h2,
+h3,h4 {
+  font-family: "Oswald", serif;
+  font-weight: 800;
+  font-style: oblique;
+}
+
+p,
+span {
+  font-family: "Roboto Flex", serif;
+  font-size: 1rem;
+  font-style: normal;
+  font-weight: 400;
+}
+
+button {
+  background-color: #FF8302;
+  font-family: "Montserrat", serif;
+  font-size: 16px;
+  font-weight: 500;
+  font-style: normal;
+  border-radius: 10px;
+  transition: box-shadow 0.3s ease, transform 0.3s ease;
+  
+}
+button:hover{
+  box-shadow: 0 4px 15px rgba(71, 71, 71, 0.5); 
+  transform: translateY(-5px);
+  transition: all  0.3s ease;
+}
+
+form{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 20px;
+  width: 50%;
+  margin:25px auto;
+}
+
+
+.acquista-container{
+  border-radius: 8px;
+  box-shadow: 0 2px  5px rgba(215, 215, 215, 0.5);
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: 10px;
+  height: 80vh;
+  width: 100%;
+  overflow: hidden;
+  margin: 25px auto ;
+
+
+}
