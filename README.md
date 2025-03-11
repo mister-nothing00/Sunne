@@ -1,29 +1,28 @@
-# Sunnee - Costumi da bagno sostenibili (in fase di completamento)
+# 🌊 Sunnee - Sustainable Swimwear
 
-Sunne
+## 📝 Description
+Sunnee is an innovative beachwear brand committed to creating sustainable swimwear, using exclusively yarns derived from recycled plastic. Our mission is to contribute to cleaner oceans by offering an ethical and regenerative solution in the fashion world.
 
-## Descrizione
+## 🌱 History
+Founded by a passionate surfer in 2018, Sunnee was born from the need to combat water pollution and the desire to create swimwear that doesn't contribute to environmental pollution. Since then, a dedicated team has joined to carry forward this vision and create sustainable, high-quality products.
 
-Sunnee è un brand innovativo di beachwear che si impegna a creare costumi da bagno sostenibili, utilizzando esclusivamente filati derivati da plastica riciclata. La nostra missione è contribuire a un mare più pulito, offrendo una soluzione etica e rigenerativa nel mondo della moda.
+## ✨ Features
+- **Sustainable Materials**: Our swimwear is made with patented material sourced from plastic waste, such as fishing nets.
+- **Variety of Models**:
+  - **Relax**: Swimwear for a normal day at the beach.
+  - **Active**: Models for sports and outdoor activities.
+  - **Extreme**: Professional swimwear for swimming and surfing.
 
-## Storia
-
-Fondata da un'appassionata surfista nel 2018, Sunnee nasce dalla necessità di combattere l'inquinamento delle acque e dal desiderio di realizzare costumi che non contribuiscano all'inquinamento ambientale. Da allora, un team dedicato si è unito per portare avanti questa visione e realizzare prodotti sostenibili e di alta qualità.
-
-## Funzionalità
-
-- **Materiali Sostenibili**: I costumi sono realizzati con un materiale brevettato, proveniente da rifiuti plastici, come reti da pesca.
-- **Varietà di Modelli**:
-  - **Relax**: Costumi per una normale giornata al mare.
-  - **Active**: Modelli per sportivi e attività all'aperto.
-  - **Extreme**: Costumi professionali per nuoto e surf.
-
-## Installazione
-
-Per avviare il progetto localmente, segui questi passaggi:
-
-1. **Clona il repository**:
+## 🚀 Installation
+To launch the project locally, follow these steps:
+1. **Clone the repository**:
    ```bash
-   git clone https://github.com/tuo-username/sunnee.git
+   git clone https://github.com/your-username/sunnee.git
    cd sunnee
-   
+   ```
+
+## 🌐 Visit our website
+[Explore Sunnee online](https://mister-nothing00.github.io/Sunne/)
+
+## 🔄 Updates
+This project is currently under development. Follow us to stay updated on news and improvements.
